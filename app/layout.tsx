@@ -1,3 +1,7 @@
+// app/layout.tsx
+import './globals.css'
+import type { Metadata } from 'next'
+
 export const metadata: Metadata = {
   title: 'Atelier ModaGênese | Moda Sob Medida e Decoração',
   description: 'Moda autoral, roupas sob medida, cortinas personalizadas e artigos exclusivos criados para você. Conheça o Atelier ModaGênese!',
@@ -22,4 +26,14 @@ export const metadata: Metadata = {
     description: 'Moda feita para você, sob medida.',
     images: ['/images/banner.jpg'],
   }
+}
+
+export default function RootLayout({ children }: { children: React.ReactNode }) {
+  return (
+    <html lang="pt">
+      <body>
+        {children}
+      </body>
+    </html>
+  )
 }

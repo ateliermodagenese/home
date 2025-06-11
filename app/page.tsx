@@ -60,53 +60,162 @@ export default function EstilistaWebsite() {
     {
       id: 1,
       category: "vestidos",
-      title: "Vestido de Festa Bordado",
+      title: "Vestido de Festa Luxo Bordado",
       description:
-        "Vestido de festa em tule bordado — projeto exclusivo para cliente particular. Design, modelagem e confecção integral no atelier.",
+        "Deslumbre-se com este vestido de festa em cetim vermelho, com cauda esvoaçante e detalhes bordados à mão. Peça exclusiva, ideal para ocasiões especiais e eventos de gala.",
       year: "2024",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/images/portfolio/vestidos/portfolio_vestidos_1.jpg",
     },
     {
       id: 2,
       category: "casual",
       title: "Conjunto Casual Elegante",
-      description: "Conjunto sob medida em linho, perfeito para o dia a dia com elegância e conforto.",
+      description: "Conjunto em linho premium, com calça ampla e blusa estruturada. Elegância casual para o dia a dia, aliando conforto e estilo personalizado.",
       year: "2024",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/images/portfolio/casual/portfolio_casual_1.jpg",
     },
     {
       id: 3,
       category: "cortinas",
-      title: "Cortinas Personalizadas",
-      description: "Cortinas sob medida em tecido importado, transformando completamente o ambiente.",
+      title: "Cortinas de Tecido Importado",
+      description: "Cortinas sob medida em tecido importado, com caimento perfeito. Transformam o ambiente, oferecendo elegância e privacidade.",
       year: "2024",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/images/portfolio/cortinas/portfolio_cortina_1.jpg",
     },
     {
       id: 4,
       category: "noiva",
       title: "Vestido de Noiva Clássico",
-      description:
-        "Vestido de noiva em seda pura com detalhes em renda francesa, criado especialmente para o grande dia.",
+      description: "Modelo romântico, com véu fluido e acabamento sofisticado. Perfeito para noivas que buscam um visual tradicional e refinado.",
       year: "2023",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/images/portfolio/noiva/portfolio_noiva_1.jpg",
     },
     {
       id: 5,
       category: "casa",
       title: "Almofadas Decorativas",
-      description: "Conjunto de almofadas personalizadas em tecidos exclusivos para decoração de sala.",
+      description: "Almofadas exclusivas com estampas autorais e texturas variadas. Desenvolvidas para compor salas modernas e cheias de personalidade.",
       year: "2024",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/images/portfolio/casa/portfolio_casa_1.jpg",
     },
     {
       id: 6,
       category: "festa",
-      title: "Vestido de Gala",
-      description: "Vestido de gala em cetim com aplicações de cristais, para evento especial.",
+      title: "Vestido de Gala Dourado com Cristais",
+      description: "Vestido de gala em cetim dourado, luxuoso, com aplicações de cristais que realçam a silhueta.Perfeito para eventos especiais e festas exclusivas.",
       year: "2024",
-      image: "/placeholder.svg?height=400&width=300",
+      image: "/images/portfolio/festa/portfolio_festa_1.jpg",
     },
+    {
+      id: 7,
+      category: "casual",
+      title: "Conjunto Casual Elegante",
+      description: "Look casual sofisticado, ideal para cafés urbanos e ambientes modernos. Roupas feitas sob medida para quem valoriza praticidade com requinte.",
+      year: "2024",
+      image: "/images/portfolio/casual/portfolio_casual_2.jpg",
+    },
+
+    {
+      id: 8,
+      category: "cortinas",
+      title: "Cortina com Detalhes Artesanais",
+      description: "Cortinas exclusivas, feitas com tecidos leves e detalhes artesanais. Valorizam a iluminação natural e agregam charme ao espaço.",
+      year: "2022",
+      image: "/images/portfolio/cortinas/portfolio_cortina_2.jpg",
+    },
+
+    {
+      id: 9,
+      category: "cortinas",
+      title: "Cortinas para Ambientes Modernos",
+      description: "Modelos sob medida que unem funcionalidade e design contemporâneo. Acabamento impecável e variedade de tecidos premium.",
+      year: "2023",
+      image: "/images/portfolio/cortinas/portfolio_cortina_3.jpg",
+    },
+
+    {
+      id: 10,
+      category: "cortinas",
+      title: "Cortinas Clássicas Sob Medida",
+      description: "Cortinas clássicas, com tecido importado e acabamento refinado. Projetadas para integrar-se perfeitamente à decoração.",
+      year: "2024",
+      image: "/images/portfolio/cortinas/portfolio_cortina_4.jpg",
+    },
+    {
+      id: 11,
+      category: "festa",
+      title: "Vestido de Gala Azul Royal",
+      description: "Peça exclusiva em cetim azul royal, com bordados manuais e pedrarias. Destaque para o acabamento sofisticado e caimento impecável.",
+      year: "2024",
+      image: "/images/portfolio/festa/portfolio_festa_2.jpg",
+    },
+    {
+      id: 12,
+      category: "festa",
+      title: "Vestido de Gala Azul Royal",
+      description: "Vestido de gala em cetim azul royal, ricamente bordado com cristais. A peça valoriza a feminilidade com elegância e requinte.",
+      year: "2024",
+      image: "/images/portfolio/festa/portfolio_festa_3.jpg",
+    },
+    {
+      id: 13,
+      category: "festa",
+      title: "Vestido de Gala Dourado Luxo Noturno",
+      description: "Modelo em cetim dourado com aplicações de brilho e corte impecável. Inspiração clássica com toque contemporâneo para noites memoráveis.",
+      year: "2024",
+      image: "/images/portfolio/festa/portfolio_festa_4.jpg",
+    },
+
+    {
+      id: 14,
+      category: "noiva",
+      title: "Vestido Bordado com Véu Longo",
+      description:
+        "Peça exclusiva com véu longo e delicados detalhes bordados. Inspiração para noivas românticas que sonham com elegância e tradição.",
+      year: "2023",
+      image: "/images/portfolio/noiva/portfolio_noiva_2.jpg",
+    },
+
+    {
+      id: 15,
+      category: "noiva",
+      title: "Vestido de Noiva Clássico em Renda",
+      description:
+        "Modelo clássico de noiva, com mangas em renda e corte fluido. Ideal para casamentos tradicionais e cerimônias sofisticadas.",
+      year: "2023",
+      image: "/images/portfolio/noiva/portfolio_noiva_3.jpg",
+    },
+
+    {
+      id: 16,
+      category: "noiva",
+      title: "Vestido de Noiva Clássico",
+      description:
+        "Vestido de noiva com saia ampla, mangas de renda e véu detalhado. Inspirado nos romances atemporais, perfeito para cerimônias ao ar livre.",
+      year: "2024",
+      image: "/images/portfolio/noiva/portfolio_noiva_4.jpg",
+    },
+
+    {
+      id: 17,
+      category: "noiva",
+      title: "Vestido de Noiva Off-Shoulder",
+      description:
+        "Modelo ombro a ombro com flores aplicadas e saia fluida em tule. Detalhes delicados e acabamento artesanal exclusivo. Ideal para noivas que buscam toque moderno.",
+      year: "2024",
+      image: "/images/portfolio/noiva/portfolio_noiva_5.jpg",
+    },
+
+    {
+      id: 18,
+      category: "casa",
+      title: "Almofadas Decorativas",
+      description: "Peças decorativas em tons pastel e formas geométricas, ideais para sofás minimalistas e decoração contemporânea.",
+      year: "2024",
+      image: "/images/portfolio/casa/portfolio_casa_2.jpg",
+    },
+
+    
   ]
 
   const testimonials = [
@@ -137,19 +246,19 @@ export default function EstilistaWebsite() {
       title: "Como escolher o vestido sob medida ideal para você",
       excerpt: "Descubra as principais dicas para escolher o vestido perfeito que valorize seu corpo e estilo pessoal.",
       date: "15 Jan 2025",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/images/blog/1_como_escolher_vestido/1_como_escolher_vestido_1.jpg",
     },
     {
       title: "Tendências em cortinas e decoração em 2025",
       excerpt: "Conheça as principais tendências em decoração e como as cortinas podem transformar seu ambiente.",
       date: "10 Jan 2025",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/images/blog/2_tendencias_cortina/2_tendencias_cortina_1.jpg",
     },
     {
       title: "O que considerar ao encomendar roupas personalizadas",
       excerpt: "Guia completo sobre o processo de criação de peças sob medida e o que você precisa saber.",
       date: "05 Jan 2025",
-      image: "/placeholder.svg?height=200&width=300",
+      image: "/images/blog/3_personalizar_roupa/3_personalizar_roupa_1.jpg",
     },
   ]
 
@@ -164,7 +273,7 @@ export default function EstilistaWebsite() {
   }, [testimonials.length])
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-rose-50 via-white to-purple-50">
+    <div className="min-h-screen bg-gradient-to-br from-rose-10 via-white to-purple-50">
       {/* Header */}
       <motion.header
         initial={{ y: -100 }}
@@ -175,7 +284,7 @@ export default function EstilistaWebsite() {
           <div className="flex items-center justify-between">
             <motion.div
               whileHover={{ scale: 1.05 }}
-              className="text-2xl font-bold bg-gradient-to-r from-rose-600 to-purple-600 bg-clip-text text-transparent"
+              className="text-2xl font-bold bg-gradient-to-r from-rose-300 to-purple-600 bg-clip-text text-transparent"
             >
               Sirlene Alves
             </motion.div>
@@ -233,10 +342,10 @@ export default function EstilistaWebsite() {
 
       {/* Hero Section */}
       <section id="home" className="pt-20 min-h-screen flex items-center relative overflow-hidden">
-        <motion.div style={{ y }} className="absolute inset-0 z-0">
-          <div className="absolute inset-0 bg-gradient-to-r from-rose-600/20 to-purple-600/20" />
-          <Image src="/placeholder.svg?height=800&width=1200" alt="Atelier Background" fill className="object-cover" />
-        </motion.div>
+      <motion.div style={{ y }} className="absolute inset-0 z-0">
+         <div className="absolute inset-0 bg-gradient-to-r from-rose-600/20 to-purple-600/20" />
+         <Image src="/images/fundo_branco.png" alt="Atelier Background" fill className="object-cover" />
+      </motion.div>
 
         <div className="container mx-auto px-4 relative z-10">
           <div className="grid lg:grid-cols-2 gap-12 items-center">
@@ -272,7 +381,7 @@ export default function EstilistaWebsite() {
                   asChild
                 >
                   <a href="#orcamento">
-                    Solicite Seu Desenho Personalizado
+                    Solicite seu desenho personalizado
                     <motion.div className="ml-2" whileHover={{ x: 5 }}>
                       <ArrowRight className="w-5 h-5" />
                     </motion.div>
@@ -289,7 +398,7 @@ export default function EstilistaWebsite() {
             >
               <div className="relative">
                 <Image
-                  src="/placeholder.svg?height=600&width=500"
+                  src="/images/produtos/roupas sob medida/festa/roupa_sob_medida_festa_1.jpg"
                   alt="Estilista Sirlene"
                   width={500}
                   height={600}
@@ -357,7 +466,7 @@ export default function EstilistaWebsite() {
           <div className="grid lg:grid-cols-2 gap-12 items-center">
             <motion.div initial={{ opacity: 0, x: -50 }} whileInView={{ opacity: 1, x: 0 }} viewport={{ once: true }}>
               <Image
-                src="/placeholder.svg?height=500&width=400"
+                src="/images/sobre_mim.jpg"
                 alt="Sirlene no Atelier"
                 width={400}
                 height={500}
@@ -704,22 +813,22 @@ export default function EstilistaWebsite() {
                     {
                       title: "Vestidos de Festa",
                       description: "Vestidos únicos para ocasiões especiais, criados especialmente para você.",
-                      image: "/placeholder.svg?height=300&width=400",
+                      image: "/images/produtos/roupas sob medida/festa/roupa_sob_medida_festa_2.jpg",
                     },
                     {
                       title: "Vestidos de Noiva",
                       description: "O vestido dos seus sonhos para o dia mais importante da sua vida.",
-                      image: "/placeholder.svg?height=300&width=400",
+                      image: "/images/produtos/roupas sob medida/noiva/roupa_sob_medida_noiva_1.jpg",
                     },
                     {
                       title: "Moda Casual",
                       description: "Peças confortáveis e elegantes para o seu dia a dia.",
-                      image: "/placeholder.svg?height=300&width=400",
+                      image: "/images/produtos/roupas sob medida/casual/roupa_sob_medida_casual_2.jpg",
                     },
                     {
                       title: "Moda Corporativa",
                       description: "Looks profissionais que transmitem confiança e elegância.",
-                      image: "/placeholder.svg?height=300&width=400",
+                      image: "/images/produtos/roupas sob medida/corporativa/roupa_sob_medida_corporativa_1.jpg",
                     },
                   ].map((item, index) => (
                     <motion.div
@@ -758,7 +867,7 @@ export default function EstilistaWebsite() {
                     <div className="grid md:grid-cols-2 gap-8 items-center">
                       <div>
                         <Image
-                          src="/placeholder.svg?height=400&width=500"
+                          src="/images/produtos/cortinas/cortina_3.jpg"
                           alt="Cortinas Personalizadas"
                           width={500}
                           height={400}
@@ -797,17 +906,17 @@ export default function EstilistaWebsite() {
                     {
                       title: "Almofadas Personalizadas",
                       description: "Almofadas únicas para decorar sua casa com estilo.",
-                      image: "/placeholder.svg?height=200&width=300",
+                      image: "/images/produtos/artigos para casa/almofadas/almofada_1.jpg",
                     },
                     {
                       title: "Roupas de Cama",
                       description: "Jogos de cama exclusivos em tecidos de alta qualidade.",
-                      image: "/placeholder.svg?height=200&width=300",
+                      image: "/images/produtos/artigos para casa/roupa de cama/roupa_de_cama_1.jpg",
                     },
                     {
                       title: "Colchas Decorativas",
                       description: "Colchas artesanais que transformam seu quarto.",
-                      image: "/placeholder.svg?height=200&width=300",
+                      image: "/images/produtos/artigos para casa/colcha decorativa/colcha_decorativa_1.jpg",
                     },
                   ].map((item, index) => (
                     <motion.div
